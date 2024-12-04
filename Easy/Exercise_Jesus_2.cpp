@@ -1,5 +1,4 @@
 //https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true
-//https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true
 #include <cmath>
 #include <cstdio>
 #include <vector>
